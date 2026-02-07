@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Samar Qayyum and I'm a Full Stack Developer, from Faisalabad , Pakistan</p>
+<p align="left">My name is <strong>Samar</strong> Qayyum and I'm a Full Stack Developer, from Faisalabad , Pakistan</p>
 
 ###
 
